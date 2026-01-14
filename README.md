@@ -6,16 +6,6 @@ An **AI & Blockchain Powered Platform** for profile evaluation, connecting compa
 
 ---
 
-## **Collaborators**
-
-We are a group of computer science students at **NUST University**:
-
-- **Talal Majeed** – [GitHub](https://www.github.com/TalalMajeed)
-- **Fozan Mujtaba** – [GitHub](https://www.github.com/fozanmujtaba)
-- **Labib Kamran** – [GitHub](https://www.github.com/labibkamran)
-- **Syed Abdul Ahad** – [GitHub](https://www.github.com/OnlyAhad13)
-
----
 
 ## **Tech Stack**
 
